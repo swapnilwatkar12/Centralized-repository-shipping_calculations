@@ -11,3 +11,5 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by swapnilwatkar12
+#git push --set-upstream origin shipping_calculator_fixes
+#Here is another update by <your GitHub username>
